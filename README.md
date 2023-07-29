@@ -1,1 +1,2 @@
 # Dalle-Image-Generation
+DALLE-Image-Generation is an advanced deep learning project for generating high-quality images using a powerful model called "DALL-E". This project is based on the GPT-3.5 architecture, developed by OpenAI, and it aims to produce stunning and realistic images from textual descriptions.
